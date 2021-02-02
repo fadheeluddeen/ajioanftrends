@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+    background-color: rgba(161, 142, 117, 0.068);
+    padding: 0vw;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+
+    
+}
+img{
+    flex-direction: inherit;
+    height: 333px;
+
+}
+body{
+    background-color: rgba(73, 69, 73, 0.103);
+}
+div{
+    padding: 25px;
+    width: auto rem;
+    height: 100px;
+    margin: 10vh;
+}
+h3{
+    font-size: 34px;
+    font-style: italic;
+}
